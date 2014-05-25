@@ -1,11 +1,9 @@
 ## Get Started.
 
-1. download this R script "run_analysis.R" into your workspace (working directory)
-2. create a directory named "dataset"
-3. put your data in "dataset" directory
-4. in "dataset" directory, there should be file:
-
-The dataset includes the following files:
+1. Download this R script "run_analysis.R" into your workspace (working directory)
+2. Create a directory named "dataset"
+3. Download your Samsung data in "dataset" directory
+4. The dataset includes the following files:
 
 * 'README.txt'
 * 'features_info.txt': Shows information about the variables used on the feature vector.
