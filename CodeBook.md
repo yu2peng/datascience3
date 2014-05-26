@@ -7,12 +7,15 @@ readdata: merge training and test dataset.
 
 
 ### Variables:
-mdata:  data.table,  after merging training and test data 
-activity: data.table,  after merging traing and test labels.  
-subject: data.table,  after merging subject.
+*mdata:  data.table,  after merging training and test data 
 
-DT: data.table, after extracts mean and std from mdata.
-tidyData: final dataset.
+*activity: data.table,  after merging traing and test labels.  
+
+*subject: data.table,  after merging subject.
+
+*DT: data.table, after extracts mean and std from mdata.
+
+*tidyData: final dataset.
 
 
 
